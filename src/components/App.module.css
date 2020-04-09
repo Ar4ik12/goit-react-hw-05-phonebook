@@ -1,0 +1,11 @@
+.container {
+  width: 400px;
+  margin: 0 auto;
+  border: 2px solid sienna;
+  padding: 20px;
+}
+.logo {
+  color: red;
+  font-weight: bold;
+  text-transform: uppercase;
+}
